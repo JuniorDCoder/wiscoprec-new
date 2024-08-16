@@ -7,7 +7,7 @@ import './index.css'
 import './assets/css/progress.css'
 
 // Configure NProgress (optional)
-NProgress.configure({ showSpinner: false });
+NProgress.configure({ showSpinner: true });
 
 router.beforeEach((to, from, next) => {
     document.title = to.meta.title || 'WISCOPREC'
