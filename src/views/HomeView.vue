@@ -3,7 +3,7 @@
     <div class="relative">
       <!-- Hero section -->
       <div class="relative">
-        <img src="../assets/img/AdobeStock_301564720 1.png" alt="" class="w-full h-[450px] md:h-auto">
+        <img src="../assets/img/mobilebg.png" alt="" class="w-full h-[450px] md:h-auto">
         <div class="absolute inset-0 flex flex-col items-center justify-center w-full h-full bg-gradient-to-t from-primary to-transparent">
           <div class="w-[94%] overflow-hidden md:w-full">
             <div class="flex transition-transform duration-500" :style="{ transform: `translateX(-${currentIndex * 100}%)` }">

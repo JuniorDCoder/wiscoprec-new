@@ -17,7 +17,7 @@
                   endeavors and beyond.
               </p>
           </div>
-          <img src="../assets/img/AdobeStock_301564720 1.png" class="w-full md:w-1/2 md:h-3/4" alt="">
+          <img src="../assets/img/WisCoPrec-Doctor.jpg" class="w-full md:w-1/2 md:h-[500px]" alt="">
       </div>
       <Testimonials />
   </BaseLayout>
